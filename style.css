@@ -13,5 +13,21 @@ h1{
     width: 400px;
     height: 400px;
     margin-left: 150px;
-
+}
+.cabecalho{
+     background-color: rgb(210, 221, 240);
+     display: flex;
+}
+.logoimg{
+    width: 150px;
+    height: 150px;
+}
+.listacabecalho{ 
+    font-display: flex;
+    margin-left: 1200px;
+    margin-top: 30px;
+}
+.itemlistacabecalho{
+    text-transform: uppercase;
+    color: rgb(3, 3, 109);
 }

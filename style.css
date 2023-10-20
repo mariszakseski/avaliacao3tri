@@ -23,11 +23,13 @@ h1{
     height: 150px;
 }
 .listacabecalho{ 
-    font-display: flex;
-    margin-left: 1200px;
-    margin-top: 30px;
+    display: flex;
+    margin-top: 48px;
 }
 .itemlistacabecalho{
     text-transform: uppercase;
     color: rgb(3, 3, 109);
+    list-style: none;
+    font-size: 30px;
+    padding-left: 90px;
 }
